@@ -3,10 +3,10 @@
   "description": "This is the course project application",
   "main": "app.js",
   "authors": [
-    "AlohaCodeWorks"
+    "Robert Bourbonnais"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/AlohaCode/mongodb-simple-complete",
+  "homepage": "https://github.com/b0ts",
   "moduleType": [],
   "ignore": [
     "**/.*",
